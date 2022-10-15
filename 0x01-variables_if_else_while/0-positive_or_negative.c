@@ -18,7 +18,7 @@
 	}
 	else if (n == 0)
 	{
-		printf("%d is equals\n", n);
+		printf("%d is zero\n", n);
 	}
 	else
 	{
